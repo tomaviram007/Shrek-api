@@ -1,0 +1,40 @@
+.main_navbar {
+    font-family: "Akaya Telivigala", cursive;
+    font-size: 25px;
+    background-color: seagreen;
+}
+.navbar_Style {
+    color: rgb(213, 216, 42);
+    &:hover {
+        color: black;
+    }
+}
+.btn-outline {
+    color: rgb(199, 13, 13);
+}
+
+#div-background {
+    background-image: url("https://www.dreamworks.com/storage/movies/shrek/shrek-hero-image.jpg");
+    background-color: #cccccc;
+    height: 550px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    display: flex;
+}
+
+.div-holder-picture {
+    background-color: darkcyan;
+}
+
+.logo_shrek {
+    width: 50%;
+    height: auto;
+    align-self: center;
+}
+
+
+.btnShrek{
+    background-color: #C5D64C;
+  }
